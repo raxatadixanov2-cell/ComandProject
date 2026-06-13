@@ -1,0 +1,40 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+venv
+.venv
+
+# Environment Variables
+.env
+env/
+.env/
+env
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django
+db.sqlite3
+media/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Migrations (agar kerak bo'lmasa)
+# */migrations/*.py
+# !*/migrations/__init__.py
+
+# Static files
+staticfiles/
+
+# OS Files
+.DS_Store
+Thumbs.db
