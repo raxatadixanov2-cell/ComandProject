@@ -1,0 +1,7 @@
+SECRET_KEY = 'django-insecure-p&-(vzoxiq%0929x*22r4-2(5wy=((8id_3d1u5-u@cvjw2ky!'
+DB_NAME = 'comandproject'
+DB_PASSWORD = '1234'
+Db_HOST = 'localhost'
+DB_USER = 'postgress'
+DB_PORT = '5432'
+DB_ENGINE = 'django.db.backends.postgresql'
